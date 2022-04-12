@@ -41,7 +41,7 @@
     "solar-stellarorg": "git+https://github.com/stellar/solar-stellarorg#master",
     "stellar-sdk": "^0.10.3",
     "uri-templates": "^0.1.9",
-    "urijs": "^1.16.0",
+    "urijs": "^1.19.11",
     "webpack": "^1.13.2"
   }
 }
